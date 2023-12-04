@@ -8,11 +8,20 @@
 Fakes and spammers pose a significant challenge on social media platforms, impacting user experience and safety. This project focuses on the detection of fake and spammer accounts using Deep Learning techniques. The dataset used in this project has been meticulously curated, ensuring a high level of accuracy in identifying spammers. The dataset was collected using a crawler between March 15-19, 2019.
 
 
-### Dataset Context
+## Dataset Context
 
 Fakes and spammers are a major problem on all social media platforms, including Instagram. This dataset has been carefully compiled, and the terms "fake" and "spammer" are used interchangeably. The dataset accuracy is high due to personal identification of spammer/fake accounts, though there may be a minimal number of misidentified accounts in the spammers' list.
 
- 
+##Model
+
+![image](https://github.com/MadanBabu1314114/Fake-Social-Media-Profile-Detection-Using-DL/assets/123216438/0ecfe08e-38d0-446e-8400-0d56810dca9c)
+
+
+##Accuracy
+
+![image](https://github.com/MadanBabu1314114/Fake-Social-Media-Profile-Detection-Using-DL/assets/123216438/30a8e3d3-7618-4f8a-822a-8001683cd9f1)
+
+
 ## Usage
 
  **Clone the Repository:**
